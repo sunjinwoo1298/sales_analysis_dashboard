@@ -3,7 +3,7 @@
 An end-to-end Business Intelligence dashboard built using **Power BI** and **SQL** to analyze retail sales performance across multiple markets, customers, and time periods. The project focuses on transforming raw transactional data into actionable business insights through interactive visualizations and KPI reporting.
 
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](./assets/sales_dashboard.png)
 
 ---
 
