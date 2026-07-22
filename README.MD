@@ -102,12 +102,15 @@ This dashboard enables business stakeholders to:
 ## 📁 Repository Structure
 
 ```
-Business-Performance-Analytics/
+Sales_Analysis_Dashboard/
 │
-├── Dashboard.pbix
-├── sql_queries.sql
+├── sales_analysis_dashboard.pbix
+├── sales_analysis_dashboard_new_design.pbix
+├── queries.sql
 ├── README.md
-└── Screenshots/
+└── assets/
+    └── sales_dashboard.png
+
 ```
 
 ---
